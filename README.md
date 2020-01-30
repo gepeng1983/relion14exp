@@ -2,8 +2,6 @@
 
 Relion 1.4 with 
 helical reconstruction
-and
-symmetry release
-patches
+patch
 
 Contains junk code
